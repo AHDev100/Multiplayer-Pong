@@ -1,0 +1,22 @@
+{
+  "name": "multiplayer-pong",
+  "version": "1.0.0",
+  "description": "Multiplayer Pong Implemented with WebSockets",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AHDev100/Multiplayer-Pong.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AHDev100/Multiplayer-Pong/issues"
+  },
+  "homepage": "https://github.com/AHDev100/Multiplayer-Pong#readme",
+  "dependencies": {
+    "socket.io": "^4.7.2"
+  }
+}
